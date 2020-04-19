@@ -1,0 +1,15 @@
+sktime.classifiers.frequency\_based package
+===========================================
+
+.. automodule:: sktime.classifiers.frequency_based
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sktime.classifiers.frequency_based.rise

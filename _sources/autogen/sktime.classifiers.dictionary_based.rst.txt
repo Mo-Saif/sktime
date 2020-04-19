@@ -1,0 +1,15 @@
+sktime.classifiers.dictionary\_based package
+============================================
+
+.. automodule:: sktime.classifiers.dictionary_based
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sktime.classifiers.dictionary_based.boss

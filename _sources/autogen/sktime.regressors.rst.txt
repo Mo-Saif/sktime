@@ -1,0 +1,16 @@
+sktime.regressors package
+=========================
+
+.. automodule:: sktime.regressors
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sktime.regressors.base
+   sktime.regressors.tsf

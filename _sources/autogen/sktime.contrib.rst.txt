@@ -1,0 +1,27 @@
+sktime.contrib package
+======================
+
+.. automodule:: sktime.contrib
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sktime.contrib.dictionary_based
+   sktime.contrib.distance_based
+   sktime.contrib.rotation_forest
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sktime.contrib.basic_benchmarking
+   sktime.contrib.experiments
+   sktime.contrib.tale_of_two_toolkits

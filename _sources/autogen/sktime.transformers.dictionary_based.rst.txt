@@ -1,0 +1,17 @@
+sktime.transformers.dictionary\_based package
+=============================================
+
+.. automodule:: sktime.transformers.dictionary_based
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sktime.transformers.dictionary_based.PAA
+   sktime.transformers.dictionary_based.SAX
+   sktime.transformers.dictionary_based.SFA

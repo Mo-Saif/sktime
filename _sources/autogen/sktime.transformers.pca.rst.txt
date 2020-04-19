@@ -1,0 +1,7 @@
+sktime.transformers.pca module
+==============================
+
+.. automodule:: sktime.transformers.pca
+   :members:
+   :undoc-members:
+   :show-inheritance:

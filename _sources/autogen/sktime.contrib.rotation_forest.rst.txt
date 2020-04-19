@@ -1,0 +1,16 @@
+sktime.contrib.rotation\_forest package
+=======================================
+
+.. automodule:: sktime.contrib.rotation_forest
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sktime.contrib.rotation_forest.rotation_forest_dev
+   sktime.contrib.rotation_forest.rotation_forest_reworked

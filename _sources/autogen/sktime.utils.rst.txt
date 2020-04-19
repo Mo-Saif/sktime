@@ -1,0 +1,31 @@
+sktime.utils package
+====================
+
+.. automodule:: sktime.utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sktime.utils.validation
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sktime.utils.comparison
+   sktime.utils.data_container
+   sktime.utils.dataset_properties
+   sktime.utils.estimator_checks
+   sktime.utils.exceptions
+   sktime.utils.load_data
+   sktime.utils.results_writing
+   sktime.utils.seasonality
+   sktime.utils.time_series

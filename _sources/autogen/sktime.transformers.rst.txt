@@ -1,0 +1,31 @@
+sktime.transformers package
+===========================
+
+.. automodule:: sktime.transformers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sktime.transformers.dictionary_based
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sktime.transformers.base
+   sktime.transformers.compose
+   sktime.transformers.forecasting
+   sktime.transformers.matrix_profile
+   sktime.transformers.pca
+   sktime.transformers.segment
+   sktime.transformers.shapelets
+   sktime.transformers.spectral_based
+   sktime.transformers.summarise
